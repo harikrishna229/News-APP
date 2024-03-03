@@ -1,0 +1,22 @@
+api key : 3674b188304948e6b8283a4cf7ba72fe
+
+https://newsapi.org/v2/top-headlines/sources?apiKey=3674b188304948e6b8283a4cf7ba72fe
+
+https://newsapi.org/v2/top-headlines?country=in&category=sports&pageSize=70&apiKey=3674b188304948e6b8283a4cf7ba72fe
+
+
+for search query
+
+https://newsapi.org/v2/everything?q=bitcoin&apiKey=3674b188304948e6b8283a4cf7ba72fe
+
+
+menu   click              search button
+
+buttonclicks--              new query 
+
+
+Home -genral news 
+sports
+entertainment
+businness 
+movies 
